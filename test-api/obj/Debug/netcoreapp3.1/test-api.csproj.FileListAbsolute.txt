@@ -1,0 +1,4 @@
+C:\Users\Daniel\Documents\Aulas\dotnet-webapi-tests\test-api\obj\Debug\netcoreapp3.1\test-api.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\Aulas\dotnet-webapi-tests\test-api\obj\Debug\netcoreapp3.1\test-api.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\Aulas\dotnet-webapi-tests\test-api\obj\Debug\netcoreapp3.1\test-api.AssemblyInfo.cs
+C:\Users\Daniel\Documents\Aulas\dotnet-webapi-tests\test-api\obj\Debug\netcoreapp3.1\test-api.csproj.CoreCompileInputs.cache
