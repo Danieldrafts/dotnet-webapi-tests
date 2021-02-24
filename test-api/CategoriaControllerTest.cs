@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 using Xunit;
+using dotnet_webapi.Controllers;
 
 namespace test_api
 {
@@ -26,7 +27,6 @@ namespace test_api
         }
 
         [Fact]
-
         public async Task Get_Category()
         {
             var service = new CategoryController(_mockContext.Object);
